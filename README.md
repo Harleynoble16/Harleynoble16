@@ -8,8 +8,6 @@ software that solves clearly defined problems.
 
 - **[DISTIL](https://github.com/Harleynoble16/DISTIL):** an experimental macOS
   assistant exploring keyboard, eye-tracking and gesture controls.
-- **Adaptive predictive text:** early work towards a system that learns a
-  user's vocabulary and typing patterns to reduce input effort.
 - **Final-year preparation:** developing my skills in Python, machine learning,
   evaluation and human-computer interaction.
 
