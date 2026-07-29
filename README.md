@@ -1,28 +1,40 @@
 # Hi, I'm Harley 👋
 
 I'm a Computer Science with Artificial Intelligence student at Edge Hill
-University. I am interested in practical AI, accessibility technology and
-software that solves clearly defined problems.
+University. I enjoy building practical software around subjects I genuinely
+care about, especially accessibility and environmental technology.
 
-## What I'm working on
+## Featured projects
 
-- **[DISTIL](https://github.com/Harleynoble16/DISTIL):** an experimental macOS
+- **[Live Wildlife Monitor](https://github.com/Harleynoble16/LiveWildlifeApp)**
+  brings authorised wildlife livestreams, observation logging and CSV export
+  into one Streamlit app. [Try it live](https://live-wildlife-monitor.streamlit.app/).
+- **[UK Wildlife Data Project](https://github.com/Harleynoble16/WildlifeProject)**
+  analyses historical JNCC records for birds at UK Ramsar wetland sites.
+- **[WildTrack Live](https://github.com/Harleynoble16/WildTrackLive)** maps recent
+  lesser kestrel GPS records from Movebank and handles API rate limits through
+  caching and clear error messages.
+- **[DISTIL](https://github.com/Harleynoble16/DISTIL)** is an experimental macOS
   assistant exploring keyboard, eye-tracking and gesture controls.
-- **Final-year preparation:** developing my skills in Python, machine learning,
-  evaluation and human-computer interaction.
 
-## Current technical interests
+## What I'm building towards
 
-`Python` · `Artificial intelligence` · `Machine learning` · `Computer vision` ·
-`Accessibility` · `Human-computer interaction`
+My current focus is environmental data, interactive visualisation and software
+that makes complex information easier to explore. I am also preparing for my
+final-year project in adaptive predictive text for disabled students.
+
+## Tools and interests
+
+`Python` · `Streamlit` · `pandas` · `Machine learning` · `Data visualisation` ·
+`Accessibility` · `Environmental technology` · `Human-computer interaction`
 
 ## Approach
 
-I value clear problem definitions, realistic claims and evidence-led design.
-Accessibility work should involve users and evaluation, not assumptions.
+I value clear problem definitions and honest limitations. A useful project
+should explain where its data came from, what the results actually mean and
+where the system can still improve.
 
 ## Connect
 
-- Explore my public projects here on GitHub.
-- I am open to graduate, placement and collaborative opportunities involving
-  AI, software development or accessibility technology.
+I am open to graduate, placement and collaborative opportunities involving
+environmental technology, data, AI, accessibility or software development.
