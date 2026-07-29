@@ -14,9 +14,6 @@ care about, especially accessibility and environmental technology.
 - **[WildTrack Live](https://github.com/Harleynoble16/WildTrackLive)** maps recent
   lesser kestrel GPS records from Movebank and handles API rate limits through
   caching and clear error messages.
-- **[DISTIL](https://github.com/Harleynoble16/DISTIL)** is an experimental macOS
-  assistant exploring keyboard, eye-tracking and gesture controls.
-
 ## What I'm building towards
 
 My current focus is environmental data, interactive visualisation and software
