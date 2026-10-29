@@ -31,6 +31,8 @@ I value clear problem definitions and honest limitations. A useful project
 should explain where its data came from, what the results actually mean and
 where the system can still improve.
 
+**[View my CV](CV.md)**
+
 ## Connect
 
 I am open to graduate, placement and collaborative opportunities involving
